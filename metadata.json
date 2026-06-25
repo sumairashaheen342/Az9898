@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Prompt2Pixel",
+  "description": "Create high-quality videos and images from text descriptions using powerful AI generation and editing tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
